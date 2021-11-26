@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.GetBasics">
+            <summary>
+            Get List of Employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.GetBasic(System.Int32)">
+            <summary>
+            Get Individual Employee
+            </summary>
+            <param name="basicId">The Id of the Employee</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
